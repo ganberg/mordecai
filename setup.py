@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='mordecai',
+setup(name='mymordecai',
       version='2.0.1',
       description='Full text geoparsing and event geocoding',
       url='http://github.com/openeventdata/mordecai/',
